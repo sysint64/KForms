@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KForms</string>
+    <string name="forms_not_valid_email">Email is not valid</string>
+    <string name="forms_field_is_required">Field is required</string>
+</resources>
